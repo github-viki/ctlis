@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ctlis", "ctlis\ctlis.vcxproj", "{BB25F401-A74B-43E8-8B04-BF328E427502}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ctconn", "ctconn\ctconn.vcxproj", "{36BA1DD3-F33C-481F-B97E-CA268F0B3141}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ctnext", "ctnext\ctnext.vcxproj", "{9B4C7662-1ECF-4242-A585-DD3F4C671932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB25F401-A74B-43E8-8B04-BF328E427502}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB25F401-A74B-43E8-8B04-BF328E427502}.Debug|Win32.Build.0 = Debug|Win32
+		{BB25F401-A74B-43E8-8B04-BF328E427502}.Release|Win32.ActiveCfg = Release|Win32
+		{BB25F401-A74B-43E8-8B04-BF328E427502}.Release|Win32.Build.0 = Release|Win32
+		{36BA1DD3-F33C-481F-B97E-CA268F0B3141}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36BA1DD3-F33C-481F-B97E-CA268F0B3141}.Debug|Win32.Build.0 = Debug|Win32
+		{36BA1DD3-F33C-481F-B97E-CA268F0B3141}.Release|Win32.ActiveCfg = Release|Win32
+		{36BA1DD3-F33C-481F-B97E-CA268F0B3141}.Release|Win32.Build.0 = Release|Win32
+		{9B4C7662-1ECF-4242-A585-DD3F4C671932}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B4C7662-1ECF-4242-A585-DD3F4C671932}.Debug|Win32.Build.0 = Debug|Win32
+		{9B4C7662-1ECF-4242-A585-DD3F4C671932}.Release|Win32.ActiveCfg = Release|Win32
+		{9B4C7662-1ECF-4242-A585-DD3F4C671932}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
